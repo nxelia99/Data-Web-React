@@ -1,3 +1,4 @@
+import MyNavbar from './components/MyNavbar';
 import './App.css';
 import Hero from './components/Hero';
 

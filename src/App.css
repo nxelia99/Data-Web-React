@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   color: white;
+  font-family: 'Cabin', sans-serif;
 }
 
 video{
@@ -14,4 +15,12 @@ video{
 
 .container{
   position: relative;
+}
+
+.MyNavbar{
+  position: relative;
+}
+
+.logo{
+  width: 5%;
 }
